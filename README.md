@@ -3,7 +3,8 @@
 
 <div align="center" >
   
-![logo](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/c41a9b3c-f5d3-4176-ad24-5e23c3aa6efe)
+![Screenshot_2024-02-03_at_8 52 39_PM-removebg](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/7257c1d6-493d-40dd-82cc-b16bb0ccfb9a)
+
 
 </div>
 
