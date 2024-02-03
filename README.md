@@ -2,6 +2,7 @@
 
 
 <div align="center" >
+  
 ![logo](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/c41a9b3c-f5d3-4176-ad24-5e23c3aa6efe)
 
 </div>
@@ -37,6 +38,11 @@
 </div>
 
 <br/>
+
+
+<a href="https://github.com/gunjansaha55/Furry_Friends/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gunjansaha55/Furry_Friends" />
+</a>
 
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 1rem">
