@@ -1,8 +1,10 @@
 ## <div div align="center">Diversion 2k24 - Furry Friends </div>
 
-![logo](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/f140d580-d128-4c86-ba9d-757eeba18735)
+
 <div align="center">
-    <img src="(https://github.com/gunjansaha55/Furry_Friends/assets/97596347/f140d580-d128-4c86-ba9d-757eeba18735)" alt="Logo" width="120" height="120">
+    <img src="![logo](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/4e95cbae-001e-4a5e-b6fa-bdcbc074ea59)
+" alt="Logo" width="120" height="120">
+</div>
   
 
 "Furry Friends, a compassionate platform, utilizes MongoDB for a secure treatment portal addressing injured animals. The adoption and donation sections offer second chances to strays, while the user-friendly interface facilitates shelter exploration and swift reporting of animal cruelty."
