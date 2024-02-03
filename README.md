@@ -40,6 +40,18 @@
 
 <br/>
 
+## Use case
+
+FurryFriends: A Comprehensive Platform for Animal Wellbeing
+
+Imagine Luna, a playful stray dog, is found injured on the street. Concerned citizen Alex wants to help but doesn't know where to start. With FurryFriends, Alex can:
+
+Seek treatment: Search for nearby veterinary clinics or animal shelters through our shelter directory.
+Schedule an appointment: Utilize the FurryFriends treatment portal to connect with a veterinarian directly within the app. Personal information for both Luna and Alex is secured with MongoDB encryption.
+Donate for care: Contribute to Luna's treatment through our secure donation portal, ensuring her speedy recovery.
+Find a loving home: Once healed, use FurryFriends' adoption section to find Luna the perfect forever home, complete with profiles of potential adopters and shelters.
+Report cruelty: Witness animal neglect? Use the complaint section to anonymously report the incident and trigger swift action from authorities.
+
 
 
 
