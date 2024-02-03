@@ -2,7 +2,8 @@
 
 
 <div align="center">
- ![logo](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/64cbc408-6363-4da0-8ecc-addd41bcebeb)
+![logo](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/6a2d44a5-b025-45c6-9295-837050e7a600)
+
 </div>
 
 
