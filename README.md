@@ -31,9 +31,7 @@
 
 <br/>
 
-var pathToFavIcon = require('mongodb-favicon');
-console.log(pathToFavIcon);
-<br/>
+
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 1rem">
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="40px" width="50px"> Express.js - as our backend framework
