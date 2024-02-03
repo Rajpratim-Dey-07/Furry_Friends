@@ -40,9 +40,7 @@
 <br/>
 
 
-<a href="https://github.com/gunjansaha55/Furry_Friends/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gunjansaha55/Furry_Friends" />
-</a>
+
 
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 1rem">
@@ -50,4 +48,15 @@
 </div>
 
 <br/>
+
+## Contributors
+
+<h1 align="center">
+ <b>Made with ❤️ by team CheatSheet</h1>
+</h1>
+<div align="center">
+<a href="https://github.com/gunjansaha55/Furry_Friends/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gunjansaha55/Furry_Friends" />
+</a>
+</div>
 
