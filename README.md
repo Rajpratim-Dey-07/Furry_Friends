@@ -2,11 +2,10 @@
 
 
 <div align="center">
-<width=300>   
-![logo](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/0ab8c324-bdee-4fd2-b831-052678957a49) 
-
+  <![logo](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/e8014d91-272c-4aea-bd82-1276347a2a91)
+ style="width:300px;">
 </div>
-  
+
 
 "Furry Friends, a compassionate platform, utilizes MongoDB for a secure treatment portal addressing injured animals. The adoption and donation sections offer second chances to strays, while the user-friendly interface facilitates shelter exploration and swift reporting of animal cruelty."
 
