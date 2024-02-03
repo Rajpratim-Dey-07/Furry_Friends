@@ -52,7 +52,7 @@
 ## Contributors
 
 <h1 align="center">
- <b>Made with ❤️ by team CheatSheet</h1>
+ <b>Made by team CheatSheet with ❤</h1>
 </h1>
 <div align="center">
 <a href="https://github.com/gunjansaha55/Furry_Friends/graphs/contributors">
