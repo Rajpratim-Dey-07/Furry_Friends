@@ -22,7 +22,8 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev)
+var pathToFavIcon = require('mongodb-favicon');
+console.log(pathToFavIcon);
 <br/>
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 1rem">
