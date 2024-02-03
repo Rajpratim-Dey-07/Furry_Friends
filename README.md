@@ -1,10 +1,8 @@
 ## <div div align="center">Diversion 2k24 - Furry Friends </div>
 
-
-<div align="center">
+<p allig="center">
 ![logo](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/05077878-e8d5-4b54-910f-22fcba539e86)
-
-</div>
+</p>
 
 
 
