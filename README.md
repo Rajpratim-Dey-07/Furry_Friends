@@ -1,8 +1,8 @@
 ## <div div align="center">Diversion 2k24 - Furry Friends </div>
 
 <div align="center">
-  <img src=![logo](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/5cdb2aa8-d49e-4c37-a942-334c63fb7c15)
- alt="logo">
+ ![logo](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/084c0c7e-7b8e-4e2c-acf8-d2d675f69e2e)
+
 </div>
 
 
