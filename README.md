@@ -3,7 +3,7 @@
 
 <div align="center">
    
-![logo](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/0ab8c324-bdee-4fd2-b831-052678957a49)
+![logo](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/0ab8c324-bdee-4fd2-b831-052678957a49) width="300"
 
 </div>
   
