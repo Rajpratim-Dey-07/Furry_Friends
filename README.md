@@ -17,20 +17,12 @@
 <br/>
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 1rem">
-<img src="https://user-images.githubusercontent.com/63441472/221377772-d474f54c-6049-467c-b830-7c8a220bce5d.png" height="40px" width="40px"> Filecoin - Decentralized storage network
-</div>
-
-<br/>
-
-<div style="display: flex; flex-direction: row; align-items: center; gap: 1rem">
-<img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" height="40px"> GCP - Cloud service provider
-</div>
-<br/>
-
-<div style="display: flex; flex-direction: row; align-items: center; gap: 1rem">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40px" width="60px"> Node.js - as the backend runtime
 </div>
 
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev)
 <br/>
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 1rem">
